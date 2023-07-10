@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Teste Processamento\obj\Debug\net7.0\Teste Processamento.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Teste Processamento\obj\Debug\net7.0\Teste Processamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Teste Processamento\obj\Debug\net7.0\Teste Processamento.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Teste Processamento\obj\Debug\net7.0\Teste Processamento.AssemblyInfo.cs
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Teste Processamento\obj\Debug\net7.0\Teste Processamento.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Teste Processamento\bin\Debug\net7.0\Teste Processamento.exe
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Teste Processamento\bin\Debug\net7.0\Teste Processamento.deps.json
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Teste Processamento\bin\Debug\net7.0\Teste Processamento.runtimeconfig.json
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Teste Processamento\bin\Debug\net7.0\Teste Processamento.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Teste Processamento\bin\Debug\net7.0\Teste Processamento.pdb
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Teste Processamento\obj\Debug\net7.0\Teste Processamento.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Teste Processamento\obj\Debug\net7.0\refint\Teste Processamento.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Teste Processamento\obj\Debug\net7.0\Teste Processamento.pdb
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Teste Processamento\obj\Debug\net7.0\Teste Processamento.genruntimeconfig.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Teste Processamento\obj\Debug\net7.0\ref\Teste Processamento.dll

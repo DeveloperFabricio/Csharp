@@ -1,30 +1,32 @@
 ﻿using System;
 using System.Globalization;
-namespace ConsoleApplication2
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            double x = 10.35784;
-            int y = 32;
-            string z = "Maria";
-            char w = 'F';
-            Console.Write("Olá mundo!");
-            Console.WriteLine("Bom dia!");
-            Console.WriteLine("Até mais.");
-            Console.WriteLine();
-            Console.WriteLine(x);
-            Console.WriteLine(x.ToString("F2"));
-            Console.WriteLine(x.ToString("F4"));
-            Console.WriteLine(x.ToString("F2", CultureInfo.InvariantCulture));
-            Console.WriteLine();
-            Console.WriteLine("RESULTADO = " + x);
-            Console.WriteLine("O valor do troco é " + x + " reais");
-            Console.WriteLine("O valor do troco é " + x.ToString("F2") + " reais");
-            Console.WriteLine();
-            Console.WriteLine("A paciente " + z + " tem " + y + " anos e seu sexo é: " + w);
-            Console.ReadLine();
+
+namespace Course {
+    class Program {
+        static void Main(string[] args) {
+
+            Console.WriteLine("Entre com o seu nome completo: ");
+            string nome = Console.ReadLine();
+
+            Console.WriteLine("Quantos quartos tem sua casa? ");
+            int quartos = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Entre com o preço do produto: ");
+            double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            Console.WriteLine("Entre com seu último nome, idade e altura: ");
+            string[] vet = Console.ReadLine().Split(' ');
+            string sobrenome = vet[0];
+            int idade = int.Parse(vet[1]);
+            double altura = double.Parse(vet[2], CultureInfo.InvariantCulture);
+
+            Console.ReadLine(nome);
+            Console.ReadLine(quartos);
+            Console.ReadLine(preco.ToString("F2", CultureInfo.InvariantCulture));
+            Console.ReadLine(sobrenome);
+            Console.ReadLine(idade);
+            Console.ReadLine(altura.ToString("F2", CultureInfo.InvariantCulture));
+
         }
     }
 }
