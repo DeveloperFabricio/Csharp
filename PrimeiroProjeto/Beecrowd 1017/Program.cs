@@ -16,7 +16,6 @@ namespace uri1017
 
             distancia = tempo * velocidade;
 
-            // aqui eh importante colocar o .0 depois do 12, ou entao fazer o casting (double)
             litros = distancia / 12.0;
 
             Console.WriteLine(litros.ToString("F3", CultureInfo.InvariantCulture));
