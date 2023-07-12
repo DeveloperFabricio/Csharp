@@ -8,14 +8,14 @@ namespace uri1014
         static void Main(string[] args)
         {
             int X;
-            float Y, resultado;
+            decimal Y, resultado;
 
             X = int.Parse(Console.ReadLine());  
-            Y = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Y = decimal.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             resultado = X / Y;
 
-            Console.WriteLine(resultado.ToString("F3", CultureInfo.InvariantCulture) + " km/l ");
+            Console.WriteLine(resultado.ToString("F3", CultureInfo.InvariantCulture) + " km/l");
         }
     }
 }

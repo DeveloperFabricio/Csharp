@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Beecrowd 1016/1.0.0": {
+        "runtime": {
+          "Beecrowd 1016.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Beecrowd 1016/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
