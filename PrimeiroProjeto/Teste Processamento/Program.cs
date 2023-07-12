@@ -5,21 +5,19 @@ namespace curso
 {
     class Program
     {
-        static void Main(string[] args)
-        {
+        private static string X;
 
-            double largura, comprimento, precoMetroQuadrado, area, preco;
-            largura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            comprimento = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            precoMetroQuadrado = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+        static void Main(string[] args){
 
-            area = largura * comprimento;
-            preco = area * precoMetroQuadrado;
+            double n, raio, area;
 
-            Console.WriteLine("Area = " + area.ToString("F2", CultureInfo.InvariantCulture));
-            Console.WriteLine("Preco = " + preco.ToString("F2", CultureInfo.InvariantCulture));
+            n = 3.14159;
+            raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.ReadLine();
+            area = n * (raio * raio);
+
+            Console.WriteLine("A=" + area.ToString("F4", CultureInfo.InvariantCulture));
+
         }
     }
 }
