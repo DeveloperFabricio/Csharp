@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\DeveloperFabricio\\Csharp\\PrimeiroProjeto\\Beecrowd1015\\Beecrowd1015.csproj",
-      "projectName": "Beecrowd1015",
-      "projectPath": "C:\\Users\\User\\source\\repos\\DeveloperFabricio\\Csharp\\PrimeiroProjeto\\Beecrowd1015\\Beecrowd1015.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\DeveloperFabricio\\Csharp\\PrimeiroProjeto\\Beecrowd1019\\Beecrowd1019.csproj",
+      "projectName": "Beecrowd1019",
+      "projectPath": "C:\\Users\\User\\source\\repos\\DeveloperFabricio\\Csharp\\PrimeiroProjeto\\Beecrowd1019\\Beecrowd1019.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\DeveloperFabricio\\Csharp\\PrimeiroProjeto\\Beecrowd1015\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\DeveloperFabricio\\Csharp\\PrimeiroProjeto\\Beecrowd1019\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
