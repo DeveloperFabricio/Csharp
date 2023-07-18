@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio Condicional\bin\Debug\net7.0\Exercicio Condicional.exe
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio Condicional\bin\Debug\net7.0\Exercicio Condicional.deps.json
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio Condicional\bin\Debug\net7.0\Exercicio Condicional.runtimeconfig.json
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio Condicional\bin\Debug\net7.0\Exercicio Condicional.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio Condicional\bin\Debug\net7.0\Exercicio Condicional.pdb
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio Condicional\obj\Debug\net7.0\Exercicio Condicional.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio Condicional\obj\Debug\net7.0\Exercicio Condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio Condicional\obj\Debug\net7.0\Exercicio Condicional.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio Condicional\obj\Debug\net7.0\Exercicio Condicional.AssemblyInfo.cs
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio Condicional\obj\Debug\net7.0\Exercicio Condicional.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio Condicional\obj\Debug\net7.0\Exercicio Condicional.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio Condicional\obj\Debug\net7.0\refint\Exercicio Condicional.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio Condicional\obj\Debug\net7.0\Exercicio Condicional.pdb
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio Condicional\obj\Debug\net7.0\Exercicio Condicional.genruntimeconfig.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio Condicional\obj\Debug\net7.0\ref\Exercicio Condicional.dll
