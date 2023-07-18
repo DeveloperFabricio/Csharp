@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Estrutura Condicional\bin\Debug\net7.0\Estrutura Condicional.exe
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Estrutura Condicional\bin\Debug\net7.0\Estrutura Condicional.deps.json
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Estrutura Condicional\bin\Debug\net7.0\Estrutura Condicional.runtimeconfig.json
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Estrutura Condicional\bin\Debug\net7.0\Estrutura Condicional.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Estrutura Condicional\bin\Debug\net7.0\Estrutura Condicional.pdb
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Estrutura Condicional\obj\Debug\net7.0\Estrutura Condicional.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Estrutura Condicional\obj\Debug\net7.0\Estrutura Condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Estrutura Condicional\obj\Debug\net7.0\Estrutura Condicional.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Estrutura Condicional\obj\Debug\net7.0\Estrutura Condicional.AssemblyInfo.cs
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Estrutura Condicional\obj\Debug\net7.0\Estrutura Condicional.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Estrutura Condicional\obj\Debug\net7.0\Estrutura Condicional.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Estrutura Condicional\obj\Debug\net7.0\refint\Estrutura Condicional.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Estrutura Condicional\obj\Debug\net7.0\Estrutura Condicional.pdb
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Estrutura Condicional\obj\Debug\net7.0\Estrutura Condicional.genruntimeconfig.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Estrutura Condicional\obj\Debug\net7.0\ref\Estrutura Condicional.dll
