@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio03\bin\Debug\net7.0\Exercicio03.exe
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio03\bin\Debug\net7.0\Exercicio03.deps.json
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio03\bin\Debug\net7.0\Exercicio03.runtimeconfig.json
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio03\bin\Debug\net7.0\Exercicio03.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio03\bin\Debug\net7.0\Exercicio03.pdb
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio03\obj\Debug\net7.0\Exercicio03.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio03\obj\Debug\net7.0\Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio03\obj\Debug\net7.0\Exercicio03.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio03\obj\Debug\net7.0\Exercicio03.AssemblyInfo.cs
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio03\obj\Debug\net7.0\Exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio03\obj\Debug\net7.0\Exercicio03.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio03\obj\Debug\net7.0\refint\Exercicio03.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio03\obj\Debug\net7.0\Exercicio03.pdb
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio03\obj\Debug\net7.0\Exercicio03.genruntimeconfig.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exercicio03\obj\Debug\net7.0\ref\Exercicio03.dll
