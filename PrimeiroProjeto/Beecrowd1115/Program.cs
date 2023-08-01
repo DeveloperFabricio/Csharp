@@ -1,24 +1,38 @@
 ﻿using System;
-using System.Globalization;
 
-namespace uri1015
+namespace uri1115
 {
-    class Program
+    class Course
     {
         static void Main(string[] args)
         {
 
             string[] valores = Console.ReadLine().Split(' ');
-            double x1 = double.Parse(valores[0], CultureInfo.InvariantCulture);
-            double y1 = double.Parse(valores[1], CultureInfo.InvariantCulture);
+            int x = int.Parse(valores[0]);
+            int y = int.Parse(valores[1]);
 
-            valores = Console.ReadLine().Split(' ');
-            double x2 = double.Parse(valores[0], CultureInfo.InvariantCulture);
-            double y2 = double.Parse(valores[1], CultureInfo.InvariantCulture);
-
-            double distancia = Math.Sqrt(Math.Pow(x2 - x1, 2.0) + Math.Pow(y2 - y1, 2.0));
-
-            Console.WriteLine(distancia.ToString("F4", CultureInfo.InvariantCulture));
+            while (x != 0 && y != 0)
+            {
+                if (x > 0 && y > 0)
+                {
+                    Console.WriteLine("primeiro");
+                }
+                else if (x < 0 && y > 0)
+                {
+                    Console.WriteLine("segundo");
+                }
+                else if (x < 0 && y < 0)
+                {
+                    Console.WriteLine("terceiro");
+                }
+                else
+                {
+                    Console.WriteLine("quarto");
+                }
+                valores = Console.ReadLine().Split(' ');
+                x = int.Parse(valores[0]);
+                y = int.Parse(valores[1]);
+            }
         }
     }
 }
