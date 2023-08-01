@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exer_While\bin\Debug\net7.0\Exer_While.exe
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exer_While\bin\Debug\net7.0\Exer_While.deps.json
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exer_While\bin\Debug\net7.0\Exer_While.runtimeconfig.json
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exer_While\bin\Debug\net7.0\Exer_While.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exer_While\bin\Debug\net7.0\Exer_While.pdb
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exer_While\obj\Debug\net7.0\Exer_While.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exer_While\obj\Debug\net7.0\Exer_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exer_While\obj\Debug\net7.0\Exer_While.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exer_While\obj\Debug\net7.0\Exer_While.AssemblyInfo.cs
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exer_While\obj\Debug\net7.0\Exer_While.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exer_While\obj\Debug\net7.0\Exer_While.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exer_While\obj\Debug\net7.0\refint\Exer_While.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exer_While\obj\Debug\net7.0\Exer_While.pdb
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exer_While\obj\Debug\net7.0\Exer_While.genruntimeconfig.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exer_While\obj\Debug\net7.0\ref\Exer_While.dll
