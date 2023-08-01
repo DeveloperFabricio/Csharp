@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Beecrowd1113\bin\Debug\net7.0\Beecrowd1113.exe
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Beecrowd1113\bin\Debug\net7.0\Beecrowd1113.deps.json
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Beecrowd1113\bin\Debug\net7.0\Beecrowd1113.runtimeconfig.json
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Beecrowd1113\bin\Debug\net7.0\Beecrowd1113.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Beecrowd1113\bin\Debug\net7.0\Beecrowd1113.pdb
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Beecrowd1113\obj\Debug\net7.0\Beecrowd1113.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Beecrowd1113\obj\Debug\net7.0\Beecrowd1113.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Beecrowd1113\obj\Debug\net7.0\Beecrowd1113.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Beecrowd1113\obj\Debug\net7.0\Beecrowd1113.AssemblyInfo.cs
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Beecrowd1113\obj\Debug\net7.0\Beecrowd1113.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Beecrowd1113\obj\Debug\net7.0\Beecrowd1113.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Beecrowd1113\obj\Debug\net7.0\refint\Beecrowd1113.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Beecrowd1113\obj\Debug\net7.0\Beecrowd1113.pdb
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Beecrowd1113\obj\Debug\net7.0\Beecrowd1113.genruntimeconfig.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Beecrowd1113\obj\Debug\net7.0\ref\Beecrowd1113.dll
