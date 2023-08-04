@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exem_For\bin\Debug\net7.0\Exem_For.exe
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exem_For\bin\Debug\net7.0\Exem_For.deps.json
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exem_For\bin\Debug\net7.0\Exem_For.runtimeconfig.json
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exem_For\bin\Debug\net7.0\Exem_For.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exem_For\bin\Debug\net7.0\Exem_For.pdb
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exem_For\obj\Debug\net7.0\Exem_For.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exem_For\obj\Debug\net7.0\Exem_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exem_For\obj\Debug\net7.0\Exem_For.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exem_For\obj\Debug\net7.0\Exem_For.AssemblyInfo.cs
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exem_For\obj\Debug\net7.0\Exem_For.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exem_For\obj\Debug\net7.0\Exem_For.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exem_For\obj\Debug\net7.0\refint\Exem_For.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exem_For\obj\Debug\net7.0\Exem_For.pdb
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exem_For\obj\Debug\net7.0\Exem_For.genruntimeconfig.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Exem_For\obj\Debug\net7.0\ref\Exem_For.dll
