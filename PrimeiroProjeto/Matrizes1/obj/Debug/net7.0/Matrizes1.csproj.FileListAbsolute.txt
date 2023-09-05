@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Matrizes1\obj\Debug\net7.0\Matrizes1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Matrizes1\obj\Debug\net7.0\Matrizes1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Matrizes1\obj\Debug\net7.0\Matrizes1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Matrizes1\obj\Debug\net7.0\Matrizes1.AssemblyInfo.cs
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Matrizes1\obj\Debug\net7.0\Matrizes1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Matrizes1\bin\Debug\net7.0\Matrizes1.exe
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Matrizes1\bin\Debug\net7.0\Matrizes1.deps.json
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Matrizes1\bin\Debug\net7.0\Matrizes1.runtimeconfig.json
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Matrizes1\bin\Debug\net7.0\Matrizes1.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Matrizes1\bin\Debug\net7.0\Matrizes1.pdb
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Matrizes1\obj\Debug\net7.0\Matrizes1.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Matrizes1\obj\Debug\net7.0\refint\Matrizes1.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Matrizes1\obj\Debug\net7.0\Matrizes1.pdb
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Matrizes1\obj\Debug\net7.0\Matrizes1.genruntimeconfig.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\Matrizes1\obj\Debug\net7.0\ref\Matrizes1.dll
