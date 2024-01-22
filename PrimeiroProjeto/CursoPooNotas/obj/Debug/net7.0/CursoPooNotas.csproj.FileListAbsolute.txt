@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\CursoPooNotas\bin\Debug\net7.0\CursoPooNotas.exe
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\CursoPooNotas\bin\Debug\net7.0\CursoPooNotas.deps.json
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\CursoPooNotas\bin\Debug\net7.0\CursoPooNotas.runtimeconfig.json
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\CursoPooNotas\bin\Debug\net7.0\CursoPooNotas.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\CursoPooNotas\bin\Debug\net7.0\CursoPooNotas.pdb
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\CursoPooNotas\obj\Debug\net7.0\CursoPooNotas.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\CursoPooNotas\obj\Debug\net7.0\CursoPooNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\CursoPooNotas\obj\Debug\net7.0\CursoPooNotas.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\CursoPooNotas\obj\Debug\net7.0\CursoPooNotas.AssemblyInfo.cs
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\CursoPooNotas\obj\Debug\net7.0\CursoPooNotas.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\CursoPooNotas\obj\Debug\net7.0\CursoPooNotas.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\CursoPooNotas\obj\Debug\net7.0\refint\CursoPooNotas.dll
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\CursoPooNotas\obj\Debug\net7.0\CursoPooNotas.pdb
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\CursoPooNotas\obj\Debug\net7.0\CursoPooNotas.genruntimeconfig.cache
+C:\Users\User\source\repos\DeveloperFabricio\Csharp\PrimeiroProjeto\CursoPooNotas\obj\Debug\net7.0\ref\CursoPooNotas.dll
