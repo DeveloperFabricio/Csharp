@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CursoPooNotas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40a94014f239c4e39c1e89018931a43879260c90")]
 [assembly: System.Reflection.AssemblyProductAttribute("CursoPooNotas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CursoPooNotas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

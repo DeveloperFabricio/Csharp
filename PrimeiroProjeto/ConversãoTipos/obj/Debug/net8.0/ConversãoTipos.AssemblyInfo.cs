@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("FundamentosCsharp.Console")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ConversãoTipos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40a94014f239c4e39c1e89018931a43879260c90")]
-[assembly: System.Reflection.AssemblyProductAttribute("FundamentosCsharp.Console")]
-[assembly: System.Reflection.AssemblyTitleAttribute("FundamentosCsharp.Console")]
+[assembly: System.Reflection.AssemblyProductAttribute("ConversãoTipos")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ConversãoTipos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
